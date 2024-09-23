@@ -1,0 +1,1 @@
+Car(id=2, make=Honda, model=Jazz, manufacturingYear=2012, color=orange, price=3000, registrationNumber=32256)
